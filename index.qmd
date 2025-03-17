@@ -1,0 +1,27 @@
+---
+project:
+  type: website
+  output-dir: docs
+  
+website: 
+  title: "Adam's Advanced Github Notes"
+  
+format: 
+  html:
+    theme: slate
+---
+
+# This is my very simple website. 
+
+Today I: 
+
+1. Joined a github org called [rostock2025](https://github.org/rostock2025/)
+
+- A 
+- B
+- C
+
+
+
+
+
